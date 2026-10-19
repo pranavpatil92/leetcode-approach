@@ -127,4 +127,8 @@ public:
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
