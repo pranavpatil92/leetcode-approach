@@ -53,6 +53,7 @@ public:
 | [0011-container-with-most-water](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0136-single-number) |
@@ -117,6 +118,7 @@ public:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
@@ -131,4 +133,8 @@ public:
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/2235-add-two-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
