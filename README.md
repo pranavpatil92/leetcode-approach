@@ -59,6 +59,7 @@ public:
 | [0136-single-number](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0977-squares-of-a-sorted-array) |
@@ -73,6 +74,7 @@ public:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0242-valid-anagram) |
 | [1207-unique-number-of-occurrences](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/1207-unique-number-of-occurrences) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -96,6 +98,7 @@ public:
 | [0015-3sum](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
@@ -137,4 +140,12 @@ public:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
