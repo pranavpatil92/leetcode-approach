@@ -1,0 +1,48 @@
+# PS 36: Sort an Array of 0s, 1s and 2s
+
+## Problem Statement
+Given an array `nums` consisting only of `0`, `1`, and `2`, sort the array in non-decreasing order. The sorting must be done in-place without making a copy of the original array.
+
+## Approach
+Use C++ STL's built-in `sort()` function to sort the array in ascending order.
+
+- `nums.begin()` points to the first element.
+- `nums.end()` points just past the last element.
+- `sort()` rearranges the elements in the original array.
+
+## Code
+```cpp
+class Solution {
+public:
+    void sortZeroOneTwo(vector<int>& nums) {
+        sort(nums.begin(), nums.end());
+    }
+};
+```
+
+## Example
+
+**Input**
+```text
+nums = [1, 0, 2, 1, 0]
+```
+
+**Output**
+```text
+[0, 0, 1, 1, 2]
+```
+
+## Complexity Analysis
+
+- **Time Complexity:** O(n log n)
+- **Auxiliary Space:** Typically O(log n) for the recursion stack used by `std::sort`.
+
+Here, `n` is the number of elements in the array.
+
+## Key Learning
+- Using the C++ STL `sort()` function.
+- Sorting an array in-place.
+- Understanding time and auxiliary space complexity.
+
+## Optimization
+The Dutch National Flag algorithm can solve this problem in **O(n) time and O(1) auxiliary space**.
