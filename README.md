@@ -61,6 +61,7 @@ public:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0977-squares-of-a-sorted-array) |
@@ -70,6 +71,7 @@ public:
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +79,7 @@ public:
 | [0217-contains-duplicate](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0268-missing-number) |
 | [1207-unique-number-of-occurrences](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/1207-unique-number-of-occurrences) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -94,6 +97,7 @@ public:
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +106,7 @@ public:
 | [0217-contains-duplicate](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
@@ -137,6 +142,7 @@ public:
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/2235-add-two-integers) |
 ## Divide and Conquer
 |  |
