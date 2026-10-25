@@ -67,6 +67,7 @@ public:
 | [0977-squares-of-a-sorted-array](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bit Manipulation
 |  |
@@ -161,4 +162,8 @@ public:
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
