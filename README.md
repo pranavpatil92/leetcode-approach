@@ -66,6 +66,7 @@ public:
 | [0268-missing-number](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0485-max-consecutive-ones) |
+| [0775-global-and-local-inversions](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0775-global-and-local-inversions) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -153,6 +154,7 @@ public:
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0268-missing-number) |
+| [0775-global-and-local-inversions](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0775-global-and-local-inversions) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/2235-add-two-integers) |
 ## Divide and Conquer
