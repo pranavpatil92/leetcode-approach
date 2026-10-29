@@ -50,6 +50,7 @@ public:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0027-remove-element) |
@@ -83,6 +84,7 @@ public:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0229-majority-element-ii) |
