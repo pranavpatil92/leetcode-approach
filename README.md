@@ -66,6 +66,7 @@ public:
 | [0268-missing-number](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0493-reverse-pairs) |
 | [0775-global-and-local-inversions](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0775-global-and-local-inversions) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/1207-unique-number-of-occurrences) |
@@ -107,6 +108,7 @@ public:
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -161,6 +163,7 @@ public:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0053-maximum-subarray) |
+| [0493-reverse-pairs](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -185,4 +188,24 @@ public:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0042-trapping-rain-water) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
